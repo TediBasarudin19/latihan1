@@ -10,6 +10,7 @@ Setelah terbuat akun-nya, login dengan akun baru(kalau langsung diarahkan ke hal
 
 Membuat Repositori online
 
+![image](https://user-images.githubusercontent.com/46735500/52548887-c61b4900-2e02-11e9-8eb4-eee8417a4bdc.png)
 
 Tombol add
 Lalu kalian akan diarahkan ke halaman pembuatan repository, pembuatan repositori ini tergantung dari project kalian yang mau kalian upload, jadi saya harapkan kalian sudah punya proyek yang ingin di upload ke repositori.
