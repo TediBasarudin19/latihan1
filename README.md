@@ -20,13 +20,12 @@ Lalu kalian akan diarahkan ke halaman pembuatan repository, pembuatan repositori
 
 Form repositori
 Untuk mengisi, ada beberapa hal yang perlu di perhatikan :
-
-![image](https://user-images.githubusercontent.com/46735500/52548907-dc290980-2e02-11e9-8332-03aad10fc36a.png)
-
 Repository name : nama repository(isi saja dengan nama proyek), akan lebih rapi kalau misalnya nama repository juga di beri jenis pemogramannya juga contohnya “Android/test” atau “js/test”.
 Description : deskripsi repository (bisa kisah project dan siapa yang terlibat)
 Public/Private : kondisi repository mau di public (di buat umum) atau private(di buat pribadi atau tertutup)
 Intiallize the repository with README : ini adalah isi dokumentasi pada project yang dikerjakan, saya sarankan tidak usah di centang karena mempermudah praktek untuk mengelola git.
+
+![image](https://user-images.githubusercontent.com/46735500/52548907-dc290980-2e02-11e9-8332-03aad10fc36a.png)
 
 Contoh project yang saya gunakan adalah “js/belajar-react”
 Setelah di isi sesuai dengan keinginan, klik saja tombol “create repository”, maka pada halaman selanjutnya akan menampilkan repositori yang sudah dibuat, dan tahap selanjutnya adalah upload project ke repository online.
