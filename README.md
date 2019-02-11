@@ -2,8 +2,9 @@
 echo # latihan1
 
 
-langakah pertama buka website github,dan buat akun baru terlebih dahulu 
+langkah pertama buka website github,dan buat akun baru terlebih dahulu 
 
+![image](https://user-images.githubusercontent.com/46735500/52548674-a0417480-2e01-11e9-8051-ff1a6764922c.png)
 
 Setelah terbuat akun-nya, login dengan akun baru(kalau langsung diarahkan ke halaman utama), setelah itu pada pojok kanan atas terdapat tombol “+”, klik button tersebut dan pilih “new repository”.
 
