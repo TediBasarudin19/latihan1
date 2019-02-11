@@ -13,12 +13,15 @@ Membuat Repositori online
 ![image](https://user-images.githubusercontent.com/46735500/52548887-c61b4900-2e02-11e9-8eb4-eee8417a4bdc.png)
 
 Tombol add
+
 Lalu kalian akan diarahkan ke halaman pembuatan repository, pembuatan repositori ini tergantung dari project kalian yang mau kalian upload, jadi saya harapkan kalian sudah punya proyek yang ingin di upload ke repositori.
 
 ![image](https://user-images.githubusercontent.com/46735500/52548850-953b1400-2e02-11e9-8a8a-e9c609d08fda.png)
 
 Form repositori
 Untuk mengisi, ada beberapa hal yang perlu di perhatikan :
+
+![image](https://user-images.githubusercontent.com/46735500/52548907-dc290980-2e02-11e9-8332-03aad10fc36a.png)
 
 Repository name : nama repository(isi saja dengan nama proyek), akan lebih rapi kalau misalnya nama repository juga di beri jenis pemogramannya juga contohnya “Android/test” atau “js/test”.
 Description : deskripsi repository (bisa kisah project dan siapa yang terlibat)
