@@ -30,6 +30,8 @@ Intiallize the repository with README : ini adalah isi dokumentasi pada project 
 Contoh project yang saya gunakan adalah “js/belajar-react”
 Setelah di isi sesuai dengan keinginan, klik saja tombol “create repository”, maka pada halaman selanjutnya akan menampilkan repositori yang sudah dibuat, dan tahap selanjutnya adalah upload project ke repository online.
 
+![image](https://user-images.githubusercontent.com/46735500/52548924-ffec4f80-2e02-11e9-8e4e-e6a350222e85.png)
+
 
 Mengupload folder(repositori lokal)
 Sebelum melakukan upload pastikan di PC atau laptop sudah tersedia git, untuk Windows bisa menggunakan cmder yang sempat saya tulis disini untuk memudahkan proses penggunaan git, sedangkan untuk pengguna linux bisa menginstall dengan menggunakan perintah “sudo apt-get install git” jika menggunakan OSX install dengan brew, jika sudah file siap di upload ke repository online.
