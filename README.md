@@ -15,6 +15,7 @@ Membuat Repositori online
 Tombol add
 Lalu kalian akan diarahkan ke halaman pembuatan repository, pembuatan repositori ini tergantung dari project kalian yang mau kalian upload, jadi saya harapkan kalian sudah punya proyek yang ingin di upload ke repositori.
 
+![image](https://user-images.githubusercontent.com/46735500/52548850-953b1400-2e02-11e9-8a8a-e9c609d08fda.png)
 
 Form repositori
 Untuk mengisi, ada beberapa hal yang perlu di perhatikan :
